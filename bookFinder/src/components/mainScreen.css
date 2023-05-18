@@ -1,0 +1,14 @@
+.bookcard {
+  display: flex;
+  align-items: center;
+}
+
+.bookcard-img {
+  width: 256px;
+  height: 384px;
+  border-radius: 20px;
+}
+
+.bookcard-info {
+  color: #fff;
+}
